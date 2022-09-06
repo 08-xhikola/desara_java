@@ -1,0 +1,11 @@
+Data sot: Jan 18, 2022
+ 
+Data e marrjes: Jan 18, 2022
+Data e kthimit: Jan 20, 2022 = Dite: 2
+Emri: Informatike Ekonomike
+Mosha: 20
+Vendodhja: Fakulteti ekonomik
+Kontakti: 089889987
+Makina: BMW-2014
+Cmimi total: 140.00 
+--------------------------------------------------
